@@ -8,3 +8,6 @@ echo "Sub of two no $d"
 
 mul=$(($a * $b))
 echo "multiplication of two no $mul"
+
+div=$(($a / $b))
+echo "Division is : $div"

@@ -1,4 +1,4 @@
-a=10
+a=12
 b=20
 c=$(( $a + $b))
 echo "Additon of two no $c"
